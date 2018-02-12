@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotline_miami", "Assembly-CSharp.csproj", "{FD65B0D9-CF00-74BF-8477-D9FA04E89B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotline_miami", "Assembly-CSharp-Editor.csproj", "{E522CC12-26C6-031D-5710-7B91B2E62922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD65B0D9-CF00-74BF-8477-D9FA04E89B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD65B0D9-CF00-74BF-8477-D9FA04E89B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD65B0D9-CF00-74BF-8477-D9FA04E89B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD65B0D9-CF00-74BF-8477-D9FA04E89B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E522CC12-26C6-031D-5710-7B91B2E62922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E522CC12-26C6-031D-5710-7B91B2E62922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E522CC12-26C6-031D-5710-7B91B2E62922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E522CC12-26C6-031D-5710-7B91B2E62922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
